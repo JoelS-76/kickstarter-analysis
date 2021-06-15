@@ -6,7 +6,7 @@ The Client ("Louise") plans a Crowdfunding campaign to raise $10,000 to fund her
 Since Louise is producing a play, I narrowed the field to look at all theater campaigns, and also all play productions within that category (As opposed to funding for spaces and for musicals). ![image](https://user-images.githubusercontent.com/84299125/121837021-e1781680-cc91-11eb-94c8-d5a10e2dada1.png)![image](https://user-images.githubusercontent.com/84299125/121837086-0bc9d400-cc92-11eb-8287-a25215bb3d29.png). 
 
 ## Challenges
-My own challenges in performing this analysis were mainly limited to the newness of the material and my lack of familiarity with the excel formulas. I had some trouble with the COUNTIFS function, which I used for some fairly long formulas. It took me some time (and some assistance) to remember how to lock my cell ranges in the formulas. This problem cost me quite a bit of time. Also, there was so much data it was tempting to run various analyses on far more information than would truly be helpful, simply out of personal curiosity.
+My own challenges in performing this analysis were mainly limited to the newness of the material and my lack of familiarity with the excel formulas. I had some trouble with the COUNTIFS function, which I used for some fairly long formulas. It took me some time (and some assistance) to remember how to lock my cell ranges in the formulas. Eventually I realized that I was placing the $ before the column position but not the row number. This problem cost me quite a bit of time. Also, there was so much data it was tempting to run various analyses on far more information than would truly be helpful, simply out of personal curiosity.
 
 ## Main Analysis
 ### Theater vs Launch
