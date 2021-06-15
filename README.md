@@ -11,7 +11,7 @@ My own challenges in performing this analysis were mainly limited to the newness
 ## Main Analysis
 ### Theater vs Launch
 There were two main analyses: the outcomes of theater projects according to launch date, and the correlation between project outcomes and their financial goals.
-The analysis of theater projects by date revealed that May had the highest number of successful projects, although anytime between April and August was above average. This was also the period of highest general activity; i.e., there were more projects going live during that time. May also had the highest number of failed projects. However, the difference between successful and failed projects was more significant in May than any other month.
+The analysis of theater projects by date revealed that May had the highest number of successful projects, although anytime between April and August was above average. This was also the period of highest general activity; i.e., there were more projects going live during that time. May also had the highest number of failed projects. However, the difference between successful and failed projects was more significant in May than any other month. https://github.com/JoelS-76/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
 
 ### Outcomes vs Goals
 The research of Theater outcomes relative to goal amount revealed the highest success rate for projects under $5,000. The respective rates of success and failure cross just above $10,000. Rates for projects higher than that amount cross multiple times, revealing little or no correlation, presumably due to small sample size. Above $15,000 the number of total projects may be too small to draw any reliable conclusions. 
