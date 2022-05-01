@@ -32,3 +32,7 @@ I created and ran a machine learning model to address some of the above ideas in
 ![image](https://user-images.githubusercontent.com/84299125/166140092-272c08d3-3294-4201-8686-2cbda00ca585.png)
 
 The number of backers was typically more important than the average donation. The goal was more likely to be reached by many giving a little than by few giving a lot. Yet, as we already saw, May was below average in number of backers and still was the most successful month. Now we should look at the projects in May to find further correlation there.
+
+![image](https://user-images.githubusercontent.com/84299125/166141321-7bae30fc-edda-4058-9bb8-69d9d8ade3ed.png)
+
+If we look at these top 5 criteria by month, we see a particular balance in May.
