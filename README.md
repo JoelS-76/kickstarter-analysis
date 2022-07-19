@@ -27,12 +27,5 @@ We could also create a table that would tell us if there is a correlation betwee
 Something I noticed perusing the dataset was that the blurbs for several successful projects tended to be more well-written, more focused, and more clear about the project than those for failed projects. It would be interesting to take a sample of failed and successful projects and rate the quality of the blurb relative to the number of backers. It would require some literary analysis as well as a grading system to quantify said quality, and we would have to allow for some subjectivity in that analysis. But that could be a key element in attracting more backers for a project. That would be a much more time consuming avenue of research, so it is unlikely to be helpful for this project. However, since Louise also wants to fund a play for the Edinburgh festival, it might be worth looking at for future projects.
 
 ## Machine Learning
-I created and ran a machine learning model to address some of the above ideas in the "Other possible angles" section. I selected a Balanced Random Forest Classifier, because I wanted to discover how close the correlation was between various different criteria. The strongest correlation by far was in spotlight projects. Below is a list of the top 5 correlating features.
+I created and ran a machine learning model to address some of the above ideas in the "Other possible angles" section. I selected a Balanced Random Forest Classifier, because I wanted to discover how close the correlation was between various different criteria. The strongest correlation was the number of backers, followed by the amount pledged. Other factors were more muted in their influence. Many, such as the country or currency, had barely any influence at all.
 
-![image](https://user-images.githubusercontent.com/84299125/166140092-272c08d3-3294-4201-8686-2cbda00ca585.png)
-
-The number of backers was typically more important than the average donation. The goal was more likely to be reached by many giving a little than by few giving a lot. Yet, as we already saw, May was below average in number of backers and still was the most successful month. Now we should look at the projects in May to find further correlation there.
-
-![image](https://user-images.githubusercontent.com/84299125/166141321-7bae30fc-edda-4058-9bb8-69d9d8ade3ed.png)
-
-If we look at these top 5 criteria by month, we see a particular balance in May.
